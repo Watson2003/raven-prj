@@ -4,4 +4,4 @@ python-multipart
 anthropic
 httpx
 python-dotenv
--e packages/mood-core
+-e ../../packages/mood-core
